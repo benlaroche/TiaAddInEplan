@@ -1,0 +1,784 @@
+Sync started
+VTR.V2-PCD-VTR-FLD-KZ-1-1
+VTR.V2-PCD-VTR-FLD-KZ-1-2
+VTR.V2-PCD-VTR-FLD-KZ-1-3
+VTR.V2-PCD-VTR-FLD-KZ-1-4
+VTR.V2-PCD-VTR-FLD-KZ-1-5
+VTR.V2-PCD-VTR-FLD-KZ-1-6
+VTR.V2-PCD-VTR-FLD-KZ-1-7
+VTR.V2-PCD-VTR-FLD-KZ-1-8
+Interface
+VACON100
+TEST
+X1
+AL1103
+VTR.V2-PCD-VTR-MCP-KZ-4-0
+PROFINET interface
+VTR.V2-PCD-VTR-MCP-KZ-4-1
+VTR.V2-PCD-VTR-MCP-KZ-4-2
+VTR.V2-PCD-VTR-MCP-KZ-4-3
+VTR.V2-PCD-VTR-MCP-KZ-4-4
+VTR.V2-PCD-VTR-MCP-KZ-4-5
+VTR.V2-PCD-VTR-MCP-KZ-4-6
+VTR.V2-PCD-VTR-MCP-KZ-4-7
+VTR.V2-PCD-VTR-FLD-KZ-1-3
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-FLD-KZ-1-3
+VTR.V2-PCD-VTR-FLD-KZ-1-4
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-FLD-KZ-1-5
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-FLD-KZ-1-5
+VTR.V2-PCD-VTR-FLD-KZ-1-6
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-FLD-KZ-1-7
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-FLD-KZ-1-7
+VTR.V2-PCD-VTR-FLD-KZ-1-8
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+TEST
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+TEST
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-1
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-2
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-3
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-3
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-4
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-4
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-5
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-6
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-7
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+Sync started
+VTR.V2-PCD-VTR-FLD-KZ-1-1
+VTR.V2-PCD-VTR-FLD-KZ-1-2
+VTR.V2-PCD-VTR-FLD-KZ-1-3
+VTR.V2-PCD-VTR-FLD-KZ-1-4
+VTR.V2-PCD-VTR-FLD-KZ-1-5
+VTR.V2-PCD-VTR-FLD-KZ-1-6
+VTR.V2-PCD-VTR-FLD-KZ-1-7
+VTR.V2-PCD-VTR-FLD-KZ-1-8
+Interface
+VACON100
+TEST
+X1
+AL1103
+VTR.V2-PCD-VTR-MCP-KZ-4-0
+PROFINET interface
+VTR.V2-PCD-VTR-MCP-KZ-4-1
+VTR.V2-PCD-VTR-MCP-KZ-4-2
+VTR.V2-PCD-VTR-MCP-KZ-4-3
+VTR.V2-PCD-VTR-MCP-KZ-4-4
+VTR.V2-PCD-VTR-MCP-KZ-4-5
+VTR.V2-PCD-VTR-MCP-KZ-4-6
+VTR.V2-PCD-VTR-MCP-KZ-4-7
+VTR.V2-PCD-VTR-FLD-KZ-1-3
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-FLD-KZ-1-3
+VTR.V2-PCD-VTR-FLD-KZ-1-4
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-FLD-KZ-1-5
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-FLD-KZ-1-5
+VTR.V2-PCD-VTR-FLD-KZ-1-6
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-FLD-KZ-1-7
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-FLD-KZ-1-7
+VTR.V2-PCD-VTR-FLD-KZ-1-8
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+TEST
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+TEST
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-1
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-2
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-3
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-3
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-4
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-4
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-5
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-6
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-7
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+Sync started
+VTR.V2-PCD-VTR-FLD-KZ-1-1
+VTR.V2-PCD-VTR-FLD-KZ-1-2
+VTR.V2-PCD-VTR-FLD-KZ-1-3
+VTR.V2-PCD-VTR-FLD-KZ-1-4
+VTR.V2-PCD-VTR-FLD-KZ-1-5
+VTR.V2-PCD-VTR-FLD-KZ-1-6
+VTR.V2-PCD-VTR-FLD-KZ-1-7
+VTR.V2-PCD-VTR-FLD-KZ-1-8
+Interface
+VACON100
+TEST
+X1
+AL1103
+VTR.V2-PCD-VTR-MCP-KZ-4-0
+PROFINET interface
+VTR.V2-PCD-VTR-MCP-KZ-4-1
+VTR.V2-PCD-VTR-MCP-KZ-4-2
+VTR.V2-PCD-VTR-MCP-KZ-4-3
+VTR.V2-PCD-VTR-MCP-KZ-4-4
+VTR.V2-PCD-VTR-MCP-KZ-4-5
+VTR.V2-PCD-VTR-MCP-KZ-4-6
+VTR.V2-PCD-VTR-MCP-KZ-4-7
+VTR.V2-PCD-VTR-FLD-KZ-1-3
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-FLD-KZ-1-3
+VTR.V2-PCD-VTR-FLD-KZ-1-4
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-FLD-KZ-1-5
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-FLD-KZ-1-5
+VTR.V2-PCD-VTR-FLD-KZ-1-6
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-FLD-KZ-1-7
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-FLD-KZ-1-7
+VTR.V2-PCD-VTR-FLD-KZ-1-8
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+TEST
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+TEST
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-1
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-2
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-3
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-3
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-4
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-4
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-5
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-6
+create plc tag
+create plc tag
+create plc tag
+create plc tag
+VTR.V2-PCD-VTR-MCP-KZ-4-7
+create plc tag
+create plc tag
+create plc tag
+create plc tag

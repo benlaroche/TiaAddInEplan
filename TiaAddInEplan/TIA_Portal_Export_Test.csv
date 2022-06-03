@@ -1,0 +1,21 @@
+﻿DeviceTagFunctionalAssignment,DeviceTagHigherLevelFunction,DeviceTagInstallationSite,DeviceTagMountingLocation,DeviceTagDTIdentifier,DeviceTagDTCounter,DeviceItemSlotOrPort,FunctionText,TypeIdentifierType,Identifier1,Identifier2,Identifier3
+VTR.V2,PCD,VTR,FLD,TA,1,0,DryerDriveMotorVFD,GSD,GSDML-V2.2-VACON-VACON100-20150303.XML,DAP,V100_DAP
+VTR.V2,PCD,VTR,FLD,TA,1,1,ST1 + 8 PD_1,GSD,GSDML-V2.2-VACON-VACON100-20150303.XML,M,IDM_PROFIDRIVE_STD1_PLUS_8PD
+VTR.V2,PCD,VTR,FLD,KZ,1,0,IO-LinkMaster1,GSD,gsdml-v2.34-ifm-al1103-20181105.XML,DAP,DIM 1
+VTR.V2,PCD,VTR,FLD,KZ,1,1,Disabled,GSD,gsdml-v2.34-ifm-al1103-20181105.XML,SM,IDS_1 Port x INACTIVATE
+VTR.V2,PCD,VTR,FLD,KZ,1,2,Disabled_1,GSD,gsdml-v2.34-ifm-al1103-20181105.XML,SM,IDS_1 Port x INACTIVATE
+VTR.V2,PCD,VTR,FLD,KZ,1,3,Sludge Tank Drain Valve,GSD,gsdml-v2.34-ifm-al1103-20181105.XML,SM,IDS_1 Port x DO
+VTR.V2,PCD,VTR,FLD,KZ,1,4,Sludge Tank Drain Valve,GSD,gsdml-v2.34-ifm-al1103-20181105.XML,SM,IDS_1 Port x DI
+VTR.V2,PCD,VTR,FLD,KZ,1,5,Biocondensate Inlet Valve,GSD,gsdml-v2.34-ifm-al1103-20181105.XML,SM,IDS_1 Port x DO
+VTR.V2,PCD,VTR,FLD,KZ,1,6,Biocondensate Inlet Valve,GSD,gsdml-v2.34-ifm-al1103-20181105.XML,SM,IDS_1 Port x DI
+VTR.V2,PCD,VTR,FLD,KZ,1,7,Soft Water Inlet Valve,GSD,gsdml-v2.34-ifm-al1103-20181105.XML,SM,IDS_1 Port x DO
+VTR.V2,PCD,VTR,FLD,KZ,1,8,Soft Water Inlet Valve,GSD,gsdml-v2.34-ifm-al1103-20181105.XML,SM,IDS_1 Port x DI
+VTR.V2,PCD,VTR,MCP,KZ,4,0,Interface,OrderNumber,6ES7155-6AU01-0BN0,,
+VTR.V2,PCD,VTR,MCP,KZ,4,1,Digital Input 1,OrderNumber,6ES7131-6BF01-0BA0,,
+VTR.V2,PCD,VTR,MCP,KZ,4,2,Digital Output 1,OrderNumber,6ES7132-6BD20-0BA0,,
+VTR.V2,PCD,VTR,MCP,KZ,4,3,Safety Digital Input 1,OrderNumber,6ES7136-6BA00-0CA0,,
+VTR.V2,PCD,VTR,MCP,KZ,4,4,Safety Digital Output 1,OrderNumber,6ES7136-6DB00-0CA0,,
+VTR.V2,PCD,VTR,MCP,KZ,4,5,Analog Input 1,OrderNumber,6ES7134-6GD01-0BA1,,
+VTR.V2,PCD,VTR,MCP,KZ,4,6,Analog Output 1,OrderNumber,6ES7135-6HD00-0BA1,,
+VTR.V2,PCD,VTR,MCP,KZ,4,7,Modbus module 1,OrderNumber,6ES7137-6AA00-0BA0,,
+VTR.V2,PCD,VTR,MCP,KZ,2,0,Main PLC,OrderNumber,6ES7518-4AX00-1AB0,,
